@@ -34,14 +34,14 @@
 - 数字を作る
   - try{}を作る
   - Integer.parseIntでwordを数字に変換する
-  - 変数numberに格納する
+  - 変数numに格納する
   - catch{}を作る
   - 変数にNumberFormatExceptionを入れる
   - println()でwordを表示して動作確認する
 
 ## 出力
 - 数字を出力
-  - println()でnumberを出力する(try内)
+  - println()でnumを出力する(try内)
 - 「数字ではありません。」を出力する
   - println()で「数字ではありません。」を出力する(catch内)
 
