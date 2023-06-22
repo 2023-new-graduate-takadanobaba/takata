@@ -18,9 +18,9 @@
   - Eclipseを起動する
   - Javaプロジェクトを作る
   - パッケージを選択する
-  - Lesson.javaを作る
+  - Lesson1.javaを作る
 - クラスを作る 
-  - lesson1クラスを書く
+  - Lesson1クラスを書く
   - 空のmain()メソッドを作る
 
 ## 入力
@@ -34,12 +34,13 @@
 - 数字を作る
   - try{}を作る
   - Integer.parseIntで数字に変換する
+  - 変数numberに格納する
   - catch{}を作る
   - 変数にNumberFormatExceptionを入れる
 
 ## 出力
 - 数字を出力
-  - println()で数字を出力する(try内)
+  - println()でnumberを出力する(try内)
 - 「数字ではありません。」を出力する
   - println()で「数字ではありません。」を出力する(catch内)
 
