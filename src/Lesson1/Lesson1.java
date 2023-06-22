@@ -17,7 +17,6 @@ public class Lesson1 {
 			System.out.println("数字ではありません。");
 		}
 		
-
 	}
 
 }
