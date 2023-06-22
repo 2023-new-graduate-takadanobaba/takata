@@ -37,7 +37,8 @@
   - 変数numに格納する
   - catch{}を作る
   - 変数にNumberFormatExceptionを入れる
-  - println()でwordを表示して動作確認する
+  - println()でnumを表示して動作確認する(try内)
+  - println()でfalseを表示して動作確認する(catch内)
 
 ## 出力
 - 数字を出力
@@ -50,4 +51,4 @@
   - 「1」を入力して確認する
   - 「あ」を入力して確認する
 
-
+# 具体例
