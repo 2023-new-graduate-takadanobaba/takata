@@ -37,6 +37,7 @@
   - 変数numberに格納する
   - catch{}を作る
   - 変数にNumberFormatExceptionを入れる
+  - println()でwordを表示して動作確認する
 
 ## 出力
 - 数字を出力
