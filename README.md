@@ -35,7 +35,7 @@
   - try{}を作る
   - Integer.parseIntで数字に変換する
   - catch{}を作る
-　- 変数にNumberFormatExceptionを入れる
+  - 変数にNumberFormatExceptionを入れる
 
 ## 出力
 - 数字を出力
