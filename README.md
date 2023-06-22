@@ -33,7 +33,7 @@
 ## 処理
 - 数字を作る
   - try{}を作る
-  - Integer.parseIntで数字に変換する
+  - Integer.parseIntでwordを数字に変換する
   - 変数numberに格納する
   - catch{}を作る
   - 変数にNumberFormatExceptionを入れる
