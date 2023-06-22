@@ -16,6 +16,7 @@ public class Lesson1 {
 		}catch(NumberFormatException ex){
 			System.out.println("数字ではありません。");
 		}
+		
 
 	}
 
