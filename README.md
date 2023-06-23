@@ -69,7 +69,7 @@
   - Eclipseを起動する
   - Javaプロジェクトを作る
   - パッケージを選択する
-  - Lesson1.javaを作る
+  - Lesson5.javaを作る
 - クラスを作る 
   - Lesson5クラスを書く
   - 空のmain()メソッドを作る
@@ -82,9 +82,10 @@
   - Scanner.nextLine()メソッドで文字列を入力する
   - 変数nameに格納する
 - 食べ物を入力する
-  - Array配列foodsに格納する
+  - 変数foodに格納する
+  - foodをArray配列foodsに格納する
   - 複数入力する
-  - whileで入力した回数分、配列に入れる
+    - whileで入力した回数分、配列に入れる
     - Array配列foodsに格納する
   - 空欄で入力しない
     - Array配列foodsに格納する
