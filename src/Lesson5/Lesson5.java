@@ -34,8 +34,8 @@ public class Lesson5 {
 				for(int i=0; i<foods.size(); i++ ) {
 					all = all +"、" + foods.get(i); 
 				}
-				System.out.println("好きな食べ物は"+all+"ですね");
 				
+				System.out.println("好きな食べ物は"+all+"ですね");	
 			}
 			
 		
